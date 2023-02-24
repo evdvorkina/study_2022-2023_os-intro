@@ -101,7 +101,7 @@ header-includes:
 | `/tmp`       | Временные файлы                                                                                                            |
 | `/usr`       | Вторичная иерархия для данных пользователя                                                                                 |
 
-Более подробно об Unix см. в [@gnu-doc:bash;@newham:2005:bash;@zarrelli:2017:bash;@robbins:2013:bash;@tannenbaum:arch-pc:ru;@tannenbaum:modern-os:ru].
+Более подробно об Unix см. в .
 
 # Выполнение лабораторной работы
 
